@@ -1,0 +1,7 @@
+H:\Unit 1\Session 1\U1_Calculator_P2\U1_Calculator_P2\obj\Debug\U1_Calculator_P2.csprojAssemblyReference.cache
+H:\Unit 1\Session 1\U1_Calculator_P2\U1_Calculator_P2\obj\Debug\U1_Calculator_P2.csproj.CoreCompileInputs.cache
+H:\Unit 1\Session 1\U1_Calculator_P2\U1_Calculator_P2\bin\Debug\U1_Calculator_P2.exe.config
+H:\Unit 1\Session 1\U1_Calculator_P2\U1_Calculator_P2\bin\Debug\U1_Calculator_P2.exe
+H:\Unit 1\Session 1\U1_Calculator_P2\U1_Calculator_P2\bin\Debug\U1_Calculator_P2.pdb
+H:\Unit 1\Session 1\U1_Calculator_P2\U1_Calculator_P2\obj\Debug\U1_Calculator_P2.exe
+H:\Unit 1\Session 1\U1_Calculator_P2\U1_Calculator_P2\obj\Debug\U1_Calculator_P2.pdb
